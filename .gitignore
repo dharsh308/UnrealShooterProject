@@ -1,0 +1,45 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio build files
+*.VC.db
+*.VC.opendb
+
+# Unreal generated files
+*.opensdf
+*.sdf
+*.sln
+
+# Rider
+.idea/
+
+# Build / intermediate files
+Build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Unreal autosaves
+Saved/
+
+# Ignore large project assets
+Content/
+
+# Optional: Ignore plugins' generated files
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
